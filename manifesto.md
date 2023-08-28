@@ -4,21 +4,17 @@ title: Manifesto
 ---
 
 <!-- Intro -->
-<figure>
-  <figcaption>
-    God is the Creator.
-  </figcaption>
-</figure>
+<blockquote>
+  God is the Creator.
+</blockquote>
 
 <!-- who we are -->
 
 <h4>I. WHO WE ARE</h4>
+<blockquote>
+  "The Last Supper" refers to a renowned mural painting created by the Italian Renaissance artist Leonardo da Vinci. It depicts the final meal that Jesus Christ shared with his disciples before his crucifixion, a moment that holds great religious and cultural significance.
+</blockquote>
 
-<figure>
-  <figcaption>
-    "The Last Supper" refers to a renowned mural painting created by the Italian Renaissance artist Leonardo da Vinci. It depicts the final meal that Jesus Christ shared with his disciples before his crucifixion, a moment that holds great religious and cultural significance.
-  </figcaption>
-</figure>
 
 <br/>
 The Last Supper an autonomous organization runned by a network of wizards, magickians, alchemists and backers to fund, protect and facilitate magickians in the process of crafting their magick.
@@ -66,8 +62,7 @@ In this chapter of existence, we chime.<br/>
   </figcaption>
 </figure>
 
-<blockquote cite="http://www.worldwildlife.org/who/index.html">
-For 50 years, WWF has been protecting the future of nature. The world's leading conservation organization, WWF works in 100 countries and is supported by 1.2 million members in the United States and close to 5 million globally.
+<blockquote>
 </blockquote>
 
 >We believe in 2027, we enter a new era. The era with a background frequency which supports the individual creator - as we call them Magick-ian.
