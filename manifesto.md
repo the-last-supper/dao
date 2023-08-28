@@ -21,12 +21,40 @@ title: Manifesto
   </figcaption>
 </figure>
 
->Magickians
+Magickian
+
 >A creator, a designer or and/or an architech who work the magick of life, the creations of structures and forms.
 
 
->An artist
+Artist
+
 >An artist is a season magickian, who acheive the legendary honour of transforming energy, matter and neutrinos into a work of art.
+
+<center>I. Who are we</center>
+
+The Last Supper
+
+<figure>
+  <figcaption>
+    "The Last Supper" is a renowned mural painting created by the Italian Renaissance artist Leonardo da Vinci. Completed between 1495 and 1498, the painting is considered one of the most iconic and significant works of art in Western history. It depicts the final meal that Jesus Christ shared with his disciples before his crucifixion, a moment that holds great religious and cultural significance.
+  </figcaption>
+</figure>
+
+
+The Last Supper is a new network, an autonomous organization made of Magickians for Magickians.
+
+
+We are [anomymous](https://en.wikipedia.org/wiki/Christopher_Hitchens):
+
+The organization is runned anonymously, though our identity is an amalgamation of the identifies of all the magickians and members involved.
+
+
+We have an objective [anomymous](https://en.wikipedia.org/wiki/Christopher_Hitchens):
+
+See II.
+
+
+<center>I. What we do</center>
 
 We [FUND](https://en.wikipedia.org/wiki/Christopher_Hitchens) magickians:
 
