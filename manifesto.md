@@ -21,17 +21,16 @@ title: Manifesto
   </figcaption>
 </figure>
 
+  
 Magickian
 
->A creator, a designer or and/or an architech who work the magick of life, the creations of structures and forms.
+A creator, a designer or and/or an architech who work the magick of life, the creations of structures and forms.
 
 <center>I. WHO WE ARE</center>
 
-The Last Supper
-
 <figure>
   <figcaption>
-    "The Last Supper" is a renowned mural painting created by the Italian Renaissance artist Leonardo da Vinci. Completed between 1495 and 1498, the painting is considered one of the most iconic and significant works of art in Western history. It depicts the final meal that Jesus Christ shared with his disciples before his crucifixion, a moment that holds great religious and cultural significance.
+    "The Last Supper" refers to a renowned mural painting created by the Italian Renaissance artist Leonardo da Vinci. It depicts the final meal that Jesus Christ shared with his disciples before his crucifixion, a moment that holds great religious and cultural significance.
   </figcaption>
 </figure>
 
@@ -47,6 +46,9 @@ The organization is runned anonymously, though our identity is an amalgamation o
 We are <u>for profit</u>
 
 See II.
+
+We have <u>tokenomics</u>
+
 
 
 <center>II. OUR PURPOSE</center>
