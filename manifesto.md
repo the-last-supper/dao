@@ -20,7 +20,8 @@ title: Manifesto
 </figure>
 
 
-The Last Supper is a decentralized autonomous organization runned by a network of wizards, alchemists and ethereals to fund, protect and facilitate magickians with <mark>$magick</mark>.
+The Last Supper is a decentralized autonomous organization runned by a network of Wizards, Alchemists and Ethereals to fund, protect and facilitate Magickians with <mark>$magick</mark>.
+
 
 <u>Magickian</u>
 
@@ -67,22 +68,22 @@ In this chapter of existence, we chime.<br/>
 </figure>
 
 
-We believe in 2027, humanity enters a new epoch, The Sleeping Phoenix
+We believe that in 2027, humanity enters a new epoch: The Sleeping Phoenix.
 
 <figure>
   <figcaption>
-    (1)Individuality - (2)Partnership - (3)Teamwork - (4)Community - (5)Corporations - (6)Decentralization.
+    (1) Individuality - (2) Partnership - (3) Teamwork - (4) Community - (5) Corporations - (6) Decentralization.
   </figcaption>
 </figure>
 
 
-...where human-made structures are reborn, bringing the individual human to the center stage:
+...where human-made structures are reborn, placing the <highlight>individual human</highlight> at the center stage:
 
 >Each and every Magickian is here to ensure his/her own survival and the propagation of their creations.
 
->Each and every Magickian will have access to infrastructures and equipted with tools to craft their $magick.
+>Each and every Magickian will have access to infrastructures and will be equipped with tools to craft their own $magick.
 
->Each and every Magickian art piece contributes to the ever-evolving collective movie of the humanity. 
+>Each and every Magickian's work contributes to the ever-evolving collective story of the humanity. 
 
 
 We are here till the time comes, 2027 and beyond.
@@ -93,18 +94,18 @@ We are here till the time comes, 2027 and beyond.
 
 We [FUND](https://en.wikipedia.org/wiki/Christopher_Hitchens):
 
->We fund new, upcoming and seasoned Magick-ians with $magick, helping them learn, refine, craft, share, sell and collect their art.
+>We fund new, upcoming and seasoned Magickians with $magick, helping them learn, refine, craft, share, sell and collect their art.
 
 We [PROTECT](https://en.wikipedia.org/wiki/Christopher_Hitchens):
 
 >We continously keep our infrastructures updated to protect Magickians from theft, hack, malware, ransomware, targeted attackes that compromise their devices, tools, identities and assets.
 
 We [FACILITATES](https://en.wikipedia.org/wiki/Christopher_Hitchens):
->We facilities magickian collaborations.
->We facilities the formation of magickians teams.
->We bring together communites of various magickian subgroups.
->We bring high-quality companies who wish to hire to magickians.
->We facilities the sharing, selling and portfolio management of magickians through our infrastructures.
+>We facilitie collaborations.
+>We facilitie the formation teams.
+>We bring together communites of various subgroups.
+>We bring high-quality companies who wish to hire magickians through $magick.
+>We facilitie the sharing, selling and asset management of Magickians through our infrastructures.
 
 We are here to guard the Magickian's livelihood, dreams, aspirations, ideas and creations.
 
