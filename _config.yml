@@ -16,12 +16,12 @@
 title: The Last Supper
 email: hello@github.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A DAO for magick makers.
+  A DAO of magick-ians.
 baseurl: "/hitchens" # the subpath of your site, e.g. /blog
 url: "https://patdryburgh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
-twitter_username: patdryburgh
-github_username:  patdryburgh
+twitter_username: thelastsupper
+github_username:  the-last-supper
 
 # Build settings
 markdown: kramdown
