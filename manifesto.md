@@ -71,6 +71,7 @@ We believe in 2027, humanity enters a new epoch, The Sleeping Phoenix.
 <figure>
   <figcaption>
     Individuality - Survival - Rebirth.
+  </figcaption>
 </figure>
 
 
@@ -114,7 +115,7 @@ X
 X
 X
 X
-XX
+X
 X
 X
 
