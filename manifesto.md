@@ -24,9 +24,7 @@ title: Manifesto
 
 <!-- who we are -->
 
-<h4>I. Who we are</h4>
-
-<br/>
+<h4>I. WHO WE ARE/h4>
 
 <figure>
   <figcaption>
@@ -34,9 +32,7 @@ title: Manifesto
   </figcaption>
 </figure>
 
-The Last Supper an autonomous organization running a network made of magickians for magickians.
-
-The organization is run by wizards, magickians, alchemists and backers.
+The Last Supper an autonomous organization running a network of wizards, magickians, alchemists and backers.
 
 Wizard
 >Founder member, who run the organization anonymously, create proposals, manage votes, ensures security and transparancy.
@@ -53,7 +49,29 @@ Backer
 
 <!-- our purpose -->
 
-<h4>II. What we do</h4>
+<h4>WHAT WE BELIEVE IN</h4>
+
+<figure>
+  <figcaption>
+    Singularity, a field of infinite potential, was in deep slumber. 
+
+    Upon waking up, it become concious of itself.
+
+    It was curious and started to explore many thoughts, eventually arriving at the thought 'I'.
+
+    The thought 'I' where no 'other' existed, created a ripple and shook the core of it's own fabric, giving birth to space, time and matter.
+
+    The event is known as a Big Bang.
+
+    There has been many installments.
+
+    We are living in one.
+  </figcaption>
+</figure>
+
+<!-- our purpose -->
+
+<h4>II. WHAT WE DO</h4>
 
 We [FUND](https://en.wikipedia.org/wiki/Christopher_Hitchens) magickians:
 
