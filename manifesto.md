@@ -64,11 +64,11 @@ In this chapter of existence, we chime.<br/>
 </figure>
 
 
-We believe in 2027, we enter a new era. The era with a background frequency which supports the individual creator - as we call them Magick-ians. <br/>
+We believe in 2027, we enter a new era. The era with a background frequency which supports the individual creator - as we call them Magick-ians.
 
-> Each and every Magick-ian represents a fractal of God conciousness and their creation, is God's creation.
+>Each and every Magick-ian represents a fractal of God conciousness and their creation, is God's creation.
 
-> Each and every Magick-ian will be fully supported by infrastructures and equipt with tools to craft their own magick.
+>Each and every Magick-ian will be fully supported by infrastructures and equipt with tools to craft their own magick.
 
 >Each and every Magick-ian's creation contributes to the ever-evolving collective movie of the humanity. 
 
