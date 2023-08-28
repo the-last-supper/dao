@@ -23,14 +23,17 @@ title: Manifesto
 <br/>
 The Last Supper an autonomous organization runned by a network of wizards, magickians, alchemists and backers to fund, protect and facilitate magickians in the process of crafting their magick.
 
-<b>Wizard</b>
+<u>Wizard</u>
 <p>Founder member, who run the organization anonymously, create proposals, manage votes, ensures security and transparancy.<p/>
+<br/>
 
-<b>Magickian</b>
+<b>Magick-ian</b>
 <p>A designer and/or an architect who work the magick of life, the creations of structures and forms.<p/>
+<br/>
 
 <b>Alchemist</b>
 <p>Network specialists, ensuring the safety of our data, finance and identities.<p/>
+<br/>
 
 <b>Backer</b>
 <p>A investor and/or a supporter, who through own's $thelastsupper.<p/>
