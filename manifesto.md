@@ -54,19 +54,20 @@ Backer
 
 <figure>
   <figcaption>
-    Singularity, a field of infinite potential, was in a deep slumber. 
+In slumber deep, Singularity lay,<br/>
+Infinite potential, night and day.<br/>
+Awakening with curious might,<br/>
+'I' emerged, a spark of light.<br/>
 
-    Upon waking up, it become concious of itself.
+No 'other' to share its reign,<br/>
+'I' gave birth, broke the cosmic chain.<br/>
+Space, time, and matter burst anew,<br/>
+Big Bang's echo, an astral debut.<br/>
 
-    It was curious and started to explore many thoughts, eventually arriving at the thought 'I'.
-
-    The thought 'I' where no 'other' existed, created a ripple and shook the core of it's own fabric, giving birth to space, time and matter.
-
-    The event is known as a Big Bang.
-
-    There has been many installments.
-
-    We are living in the 7th.
+Installments of cosmos, we're the seventh,<br/>
+In stars' embrace, we find our heaven.<br/>
+Singularity's dance, a cosmic rhyme,<br/>
+In this chapter of existence, we chime.<br/>
   </figcaption>
 </figure>
 
