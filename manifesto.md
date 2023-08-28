@@ -3,9 +3,11 @@ layout: post
 title: Manifesto
 ---
 
-God is a magickian.
-
-
+<figure>
+  <figcaption>
+    God is a creator
+  </figcaption>
+</figure>
 
 <figure>
   <figcaption>
@@ -15,15 +17,16 @@ God is a magickian.
 
 <figure>
   <figcaption>
-    God is a creator
-  </figcaption>
-</figure>
-
-<figure>
-  <figcaption>
     God is an architect
   </figcaption>
 </figure>
+
+>Magickians
+>A creator, a designer or and/or an architech who work the magick of life, the creations of structures and forms.
+
+
+>An artist
+>An artist is a season magickian, who acheive the legendary honour of transforming energy, matter and neutrinos into a work of art.
 
 We [FUND](https://en.wikipedia.org/wiki/Christopher_Hitchens) magickians:
 
