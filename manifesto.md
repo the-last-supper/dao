@@ -40,9 +40,11 @@ Network specialists, ensuring the safety of our data, finance and identities.
 
 A investor and/or a supporter, who through own's $thelastsupper.
 
+
+
 <!-- our purpose -->
 
-<h4>II. WHAT WE BELIEVE IN</h4>
+<h4>II. WHAT WE BELIEVE</h4>
 
 <figure>
   <figcaption>
@@ -64,23 +66,28 @@ In this chapter of existence, we chime.<br/>
 </figure>
 
 
-We believe in 2027, we enter a new era. The era with a background frequency which supports the individual creator - as we call them Magick-ians.
+We believe in 2027, humanity enters a new epoch, The Sleeping Phoenix.
 
->Each and every Magick-ian represents a fractal of God conciousness and their creation, is God's creation.
+<figure>
+  <figcaption>
+    Individuality - Survival - Rebirth.
+</figure>
 
->Each and every Magick-ian will be fully supported by infrastructures and equipt with tools to craft their own magick.
 
->Each and every Magick-ian's creation contributes to the ever-evolving collective movie of the humanity. 
+This represents the rebirth of the individual - as we call them Magick-ians.
+
+>Each and every <mark>Magick-ian</mark> is here to ensure his/her own survival and the propagation of their creations.
+
+>Each and every <mark>Magick-ian</mark> will have access to infrastructures and equipt with tools to craft their magick.
+
+>Each and every <mark>Magick-ian</mark> art piece contributes to the ever-evolving collective movie of the humanity. 
 
 Further:
 
->Through tokenomics, we will get to democratically vote on what gets to propagate and what dies.
+>Through tokenomics, we get to democratically vote on what moves along and what dies.
 
->We are here to support the the collective transition to 2027.
 
->We are here to guard the Magick-ian's livelihood, dreams, aspirations, ideas and creations.
-
-Till the time comes, 2027, and beyond.
+We are here till the time comes, 2027 and beyond.
 
 <!-- our purpose -->
 
@@ -88,14 +95,18 @@ Till the time comes, 2027, and beyond.
 
 We [FUND](https://en.wikipedia.org/wiki/Christopher_Hitchens) magickians:
 
->Christopher Eric Hitchens (13 April 1949 – 15 December 2011) was an Anglo-American author, columnist, essayist, orator, religious and literary critic, social critic, and journalist. Hitchens was the author, co-author, editor or co-editor of over 30 books, including five collections of essays on culture, politics and literature. A staple of public discourse, his confrontational style of debate made him both a lauded intellectual and a controversial public figure. He contributed to New Statesman, The Nation, The Weekly Standard, The Atlantic, London Review of Books, The Times Literary Supplement, Slate, Free Inquiry and Vanity Fair.
+>We run crowdfunding series to provide <mark>Magick-ian</mark>.
+>We run private seed series to provide 
 
 We [PROTECT](https://en.wikipedia.org/wiki/Christopher_Hitchens) magickians:
 
->Christopher Eric Hitchens (13 April 1949 – 15 December 2011) was an Anglo-American author, columnist, essayist, orator, religious and literary critic, social critic, and journalist. Hitchens was the author, co-author, editor or co-editor of over 30 books, including five collections of essays on culture, politics and literature. A staple of public discourse, his confrontational style of debate made him both a lauded intellectual and a controversial public figure. He contributed to New Statesman, The Nation, The Weekly Standard, The Atlantic, London Review of Books, The Times Literary Supplement, Slate, Free Inquiry and Vanity Fair.
+>We continously keep our infrastructures updated to protect <mark>Magick-ians</mark> from theft, hack, malware, ransomware, targeted attackes that compromise their devices, tools, identities and assets.
 
 We [FACILITATES](https://en.wikipedia.org/wiki/Christopher_Hitchens) magickians:
->Christopher Eric Hitchens (13 April 1949 – 15 December 2011) was an Anglo-American author, columnist, essayist, orator, religious and literary critic, social critic, and journalist. Hitchens was the author, co-author, editor or co-editor of over 30 books, including five collections of essays on culture, politics and literature. A staple of public discourse, his confrontational style of debate made him both a lauded intellectual and a controversial public figure. He contributed to New Statesman, The Nation, The Weekly Standard, The Atlantic, London Review of Books, The Times Literary Supplement, Slate, Free Inquiry and Vanity Fair.
+>We bring clients to magicians.
+>We bring platforms for magicians to trach.
+
+We are here to guard the Magick-ian's livelihood, dreams, aspirations, ideas and creations.
 
 <h4>III. OUR TOKENOMICS</h4>
 
@@ -107,15 +118,6 @@ XX
 X
 X
 
-<h4>IV. CODE OF CONDUCT</h4>
-
-X
-X
-X
-X
-XX
-X
-X
 
 
 
