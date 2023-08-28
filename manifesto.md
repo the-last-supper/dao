@@ -25,12 +25,7 @@ Magickian
 
 >A creator, a designer or and/or an architech who work the magick of life, the creations of structures and forms.
 
-
-Artist
-
->An artist is a season magickian, who acheive the legendary honour of transforming energy, matter and neutrinos into a work of art.
-
-<center>I. Who are we</center>
+<center>I. WHO WE ARE</center>
 
 The Last Supper
 
@@ -44,17 +39,17 @@ The Last Supper
 The Last Supper is a new network, an autonomous organization made of Magickians for Magickians.
 
 
-We are [anomymous](https://en.wikipedia.org/wiki/Christopher_Hitchens):
+We are <u>anomymous</u>
 
 The organization is runned anonymously, though our identity is an amalgamation of the identifies of all the magickians and members involved.
 
 
-We have an objective [anomymous](https://en.wikipedia.org/wiki/Christopher_Hitchens):
+We are <u>for profit</u>
 
 See II.
 
 
-<center>I. What we do</center>
+<center>II. OUR PURPOSE</center>
 
 We [FUND](https://en.wikipedia.org/wiki/Christopher_Hitchens) magickians:
 
