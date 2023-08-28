@@ -26,8 +26,7 @@ The Last Supper an autonomous organization runned by a network of wizards, magic
 <br/>
 
 <u>Wizard</u>
-<p>Founder member, who run the organization anonymously, create proposals, manage votes, ensures security and transparancy.<p/>
-<br/>
+Founder member, who run the organization anonymously, create proposals, manage votes, ensures security and transparancy.
 
 <u>Magick-ian</u>
 <p>A designer and/or an architect who work the magick of life, the creations of structures and forms.<p/>
