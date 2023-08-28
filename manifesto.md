@@ -59,9 +59,21 @@ In this chapter of existence, we chime.<br/>
   </figcaption>
 </figure>
 
-We believe we are at the peak of the individual creator. The magickian can finally craft their own creation and contribute to a collective movie of the human specie. 
+>We believe in 2027, we enter a new era. The era with a background frequency which supports the individual creator - as we call them Magick-ian.
 
-We are here to support and guard the magickian's livelihood, dreams, aspirations, ideas, innovations and creations.
+>Each and every Magick-ian represents a fractal of God conciousness and their creation, is God's creation.
+
+>Each and every Magick-ian will be fully supported by infrastructures and equipt with tools to craft their own magick.
+
+>Each and every Magick-ian's creation contributes to the ever-evolving collective movie of the humanity. 
+
+>Through tokenomics, we will get to democratically vote on what gets to propagate and what dies.
+
+>We are here to support the the collective transition to 2027.
+
+>We are here to guard the Magick-ian's livelihood, dreams, aspirations, ideas and creations.
+
+>Till the time comes, 2027, and beyond.
 
 <!-- our purpose -->
 
