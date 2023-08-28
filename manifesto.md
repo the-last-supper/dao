@@ -59,10 +59,8 @@ In this chapter of existence, we chime.<br/>
   </figcaption>
 </figure>
 
-<blockquote>
-</blockquote>
 
->We believe in 2027, we enter a new era. The era with a background frequency which supports the individual creator - as we call them Magick-ian.
+We believe in 2027, we enter a new era. The era with a background frequency which supports the individual creator - as we call them Magick-ians. <br/>
 
 >Each and every Magick-ian represents a fractal of God conciousness and their creation, is God's creation.
 
@@ -76,7 +74,7 @@ In this chapter of existence, we chime.<br/>
 
 >We are here to guard the Magick-ian's livelihood, dreams, aspirations, ideas and creations.
 
->Till the time comes, 2027, and beyond.
+Till the time comes, 2027, and beyond.
 
 <!-- our purpose -->
 
