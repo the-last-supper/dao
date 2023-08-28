@@ -71,25 +71,9 @@ In this chapter of existence, we chime.<br/>
   </figcaption>
 </figure>
 
-We believe everything is a work of art. Evolution. Natural selection.
+We believe we are at the peak of the individual creator. The magickian can finally craft their own creation and contribute to a collective movie of the human specie. 
 
-When human became concious creators, the very few built civilizations, stories, pyramids, statues.
-
-Following the infustrial evolutiom, we started to build infrastructures, computers, software, networks, tools.
-
-To maintain ourselves in good health.
-
-To reproduce.
-
-And to create. Give the power of creation into the hands of individuals.
-
-We have arrived at a time were everyone with a mastery of their own lives and tools can become a creator. Manipulate the fabric of space, matter and time to create a movie that's worth watching.
-
-And our conciousness votes. It votes on who and what get's to propagate.
-
-We believe everything is a work of art. Those who work hard behind the scenes to maintain infrastructures that allows the individual to create.
-
-We believe it is the ripe time to support, protect and guide individual creators, as we call them magicians - to help us create the best movies we want to experience in this lifetime.
+We are here to support and guard the magickian's livelihood, dreams, aspirations, ideas, innovations and creations.
 
 <!-- our purpose -->
 
