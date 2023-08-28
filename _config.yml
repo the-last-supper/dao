@@ -16,7 +16,7 @@
 title: The Last Supper
 email: hello@github.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A DAO of magick-ians.
+  A network of magick-ians for magick-ians.
 baseurl: "/dao" # the subpath of your site, e.g. /blog
 url: "https://the-last-supper.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
