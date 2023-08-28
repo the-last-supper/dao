@@ -2,7 +2,7 @@
 title: "Industrial Designer"
 layout: post
 author: "TLS"
-categories: magick-ians
+categories: magickians
 ---
 
 Not all posts need a title.
