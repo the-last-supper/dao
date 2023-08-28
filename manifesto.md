@@ -23,19 +23,21 @@ title: Manifesto
 <br/>
 The Last Supper an autonomous organization runned by a network of wizards, magickians, alchemists and backers to fund, protect and facilitate magickians in the process of crafting their magick.
 
+<br/>
+
 <u>Wizard</u>
 <p>Founder member, who run the organization anonymously, create proposals, manage votes, ensures security and transparancy.<p/>
 <br/>
 
-<b>Magick-ian</b>
+<u>Magick-ian</u>
 <p>A designer and/or an architect who work the magick of life, the creations of structures and forms.<p/>
 <br/>
 
-<b>Alchemist</b>
+<u>Alchemist</u>
 <p>Network specialists, ensuring the safety of our data, finance and identities.<p/>
 <br/>
 
-<b>Backer</b>
+<u>Backer</u>
 <p>A investor and/or a supporter, who through own's $thelastsupper.<p/>
 
 
@@ -65,9 +67,9 @@ In this chapter of existence, we chime.<br/>
 
 We believe in 2027, we enter a new era. The era with a background frequency which supports the individual creator - as we call them Magick-ians. <br/>
 
->Each and every Magick-ian represents a fractal of God conciousness and their creation, is God's creation.
+> Each and every Magick-ian represents a fractal of God conciousness and their creation, is God's creation.
 
->Each and every Magick-ian will be fully supported by infrastructures and equipt with tools to craft their own magick.
+> Each and every Magick-ian will be fully supported by infrastructures and equipt with tools to craft their own magick.
 
 >Each and every Magick-ian's creation contributes to the ever-evolving collective movie of the humanity. 
 
