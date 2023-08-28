@@ -20,25 +20,25 @@ title: Manifesto
 </figure>
 
 
-The Last Supper an autonomous organization runned by a network of wizards, alchemists and backers to fund, protect and facilitate <mark>magick-ians</mark> in the process of crafting their magick.
+The Last Supper a decentralized autonomous organization runned by a network of wizards, alchemists and backers to fund, protect and facilitate <mark>magick-ians</mark> in the process of learning, refining, crafting, sharing, selling and collecting their $magick.
 
 <u>Magick-ian</u>
 
-A designer and/or an architect who work the magick of life, the creations of structures and forms.
+A designer, architect, digiartist and/or soundartist, who successfully manipulates the fabric of reality through creations of structures and forms.
 
 
 <u>Wizard</u>
 
-Founder member, who run the organization anonymously, create proposals, manage votes, ensures security and transparancy.
+A founder member, who runs the organization anonymously.
 
 
 <u>Alchemist</u>
 
-Network specialists, ensuring the safety of our data, finance and identities.
+A network specialist, ensuring the safety of data, finance and identities.
 
 <u>Backer</u>
 
-A investor and/or a supporter, who through own's $thelastsupper.
+A investor and/or a supporter, owning $magick.
 
 
 
@@ -70,22 +70,22 @@ We believe in 2027, humanity enters a new epoch, The Sleeping Phoenix.
 
 <figure>
   <figcaption>
-    Individuality - Survival - Rebirth.
+    (1)Individuality - (2)Partnership - (3)Teamwork - (4)Community - (5)Corporations - (6)Decentralization.
   </figcaption>
 </figure>
 
 
-This represents the rebirth of the individual - as we call them Magick-ians.
+where every aspects of socialization is reborn, bringing the individual to the center stage - as we call them Magick-ians.
 
 >Each and every <mark>Magick-ian</mark> is here to ensure his/her own survival and the propagation of their creations.
 
->Each and every <mark>Magick-ian</mark> will have access to infrastructures and equipt with tools to craft their magick.
+>Each and every <mark>Magick-ian</mark> will have access to infrastructures and equipt with tools to craft their $magick.
 
 >Each and every <mark>Magick-ian</mark> art piece contributes to the ever-evolving collective movie of the humanity. 
 
 Further:
 
->Through tokenomics, we get to democratically vote on what moves along and what dies.
+>Through $magick, we get to democratically vote on what moves along and what dies.
 
 
 We are here till the time comes, 2027 and beyond.
@@ -96,16 +96,19 @@ We are here till the time comes, 2027 and beyond.
 
 We [FUND](https://en.wikipedia.org/wiki/Christopher_Hitchens) magickians:
 
->We run crowdfunding series to provide <mark>Magick-ian</mark>.
->We run private seed series to provide 
+>We fund new, upcoming and seasoned <mark>Magick-ians</mark> with $magick, helping them learn, refine, craft, share, sell and collect their art.
+>We fund new, upcoming and seasoned <mark>Magick-ians</mark> with $magick 
 
 We [PROTECT](https://en.wikipedia.org/wiki/Christopher_Hitchens) magickians:
 
 >We continously keep our infrastructures updated to protect <mark>Magick-ians</mark> from theft, hack, malware, ransomware, targeted attackes that compromise their devices, tools, identities and assets.
 
 We [FACILITATES](https://en.wikipedia.org/wiki/Christopher_Hitchens) magickians:
->We bring clients to magicians.
->We bring platforms for magicians to trach.
+>We facilities magick-ian to magick-ian collaborations.
+>We facilities the formation of magick-ians teams.
+>We bring together communites of various magick-ian subgroups, based on types, skillsets, demographic, location and genre.
+>We bring high-quality companies who wish to hire to individual magician, magician duos and magician teams.
+>We facilities the sharing, selling and portfolio management of magick-ians through our infrastructures.
 
 We are here to guard the Magick-ian's livelihood, dreams, aspirations, ideas and creations.
 
