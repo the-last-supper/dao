@@ -24,7 +24,7 @@ title: Manifesto
 
 <!-- who we are -->
 
-<h4>I. WHO WE ARE/h4>
+<h4>I. WHO WE ARE</h4>
 
 <figure>
   <figcaption>
@@ -65,9 +65,11 @@ Backer
 
     There has been many installments.
 
-    We are living in one.
+    We are living in the 7th.
   </figcaption>
 </figure>
+
+We believe everything is a work of art. Evolution. Those who design, build and maintain infrastructures that allows us to create a movie we want to.
 
 <!-- our purpose -->
 
