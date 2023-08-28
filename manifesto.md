@@ -35,7 +35,8 @@ title: Manifesto
 The Last Supper an autonomous organization running a network of wizards, magickians, alchemists and backers.
 
 Wizard
->Founder member, who run the organization anonymously, create proposals, manage votes, ensures security and transparancy.
+<br/>
+Founder member, who run the organization anonymously, create proposals, manage votes, ensures security and transparancy.
 
 Magickian
 > A creator, designer and/or an architect who work the magick of life, the creations of structures and forms.
