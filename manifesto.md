@@ -3,6 +3,7 @@ layout: post
 title: Manifesto
 ---
 
+<!-- Intro -->
 <figure>
   <figcaption>
     God is a creator
@@ -21,12 +22,11 @@ title: Manifesto
   </figcaption>
 </figure>
 
-  
-Magickian
-
-A creator, a designer or and/or an architech who work the magick of life, the creations of structures and forms.
+<!-- Intro -->
 
 <center>I. WHO WE ARE</center>
+
+<br/>
 
 <figure>
   <figcaption>
@@ -34,21 +34,13 @@ A creator, a designer or and/or an architech who work the magick of life, the cr
   </figcaption>
 </figure>
 
+<p>The Last Supper is a new network, an autonomous organization made of magickians for magickians.</p>
 
-The Last Supper is a new network, an autonomous organization made of Magickians for Magickians.
+<p>We are <u>anomymous</u>. The organization is runned anonymously, though our identity is an amalgamation of the identifies of all the magickians and members involved.</p>
 
+<p>We are <u>for profit</u> See II.</p>
 
-We are <u>anomymous</u>
-
-The organization is runned anonymously, though our identity is an amalgamation of the identifies of all the magickians and members involved.
-
-
-We are <u>for profit</u>
-
-See II.
-
-We have <u>tokenomics</u>
-
+<p>Our founders do reserve the power of being the leading voice of the organization, though the organization is run autonomously through votes.</p>
 
 
 <center>II. OUR PURPOSE</center>
@@ -63,3 +55,9 @@ We [PROTECT](https://en.wikipedia.org/wiki/Christopher_Hitchens) magickians:
 
 We [GUIDE](https://en.wikipedia.org/wiki/Christopher_Hitchens) magickians so they can [LEAD] the world:
 >Christopher Eric Hitchens (13 April 1949 – 15 December 2011) was an Anglo-American author, columnist, essayist, orator, religious and literary critic, social critic, and journalist. Hitchens was the author, co-author, editor or co-editor of over 30 books, including five collections of essays on culture, politics and literature. A staple of public discourse, his confrontational style of debate made him both a lauded intellectual and a controversial public figure. He contributed to New Statesman, The Nation, The Weekly Standard, The Atlantic, London Review of Books, The Times Literary Supplement, Slate, Free Inquiry and Vanity Fair.
+
+
+
+Magickian
+
+A creator, a designer or and/or an architech who work the magick of life, the creations of structures and forms.
