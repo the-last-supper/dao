@@ -59,6 +59,17 @@ In this chapter of existence, we chime.<br/>
   </figcaption>
 </figure>
 
+<figure>
+
+  <figcaption>
+    God is the Creator.
+  </figcaption>
+</figure>
+
+<blockquote cite="http://www.worldwildlife.org/who/index.html">
+For 50 years, WWF has been protecting the future of nature. The world's leading conservation organization, WWF works in 100 countries and is supported by 1.2 million members in the United States and close to 5 million globally.
+</blockquote>
+
 >We believe in 2027, we enter a new era. The era with a background frequency which supports the individual creator - as we call them Magick-ian.
 
 >Each and every Magick-ian represents a fractal of God conciousness and their creation, is God's creation.
