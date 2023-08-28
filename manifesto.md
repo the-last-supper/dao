@@ -6,19 +6,7 @@ title: Manifesto
 <!-- Intro -->
 <figure>
   <figcaption>
-    God is a creator.
-  </figcaption>
-</figure>
-
-<figure>
-  <figcaption>
-    God is a designer.
-  </figcaption>
-</figure>
-
-<figure>
-  <figcaption>
-    God is an architect.
+    God is the Creator.
   </figcaption>
 </figure>
 
@@ -32,14 +20,14 @@ title: Manifesto
   </figcaption>
 </figure>
 
-The Last Supper an autonomous organization running a network of wizards, magickians, alchemists and backers.
+<br/>
+The Last Supper an autonomous organization runned by a network of wizards, magickians, alchemists and backers to fund, protect and facilitate magickians in the process of crafting their magick.
 
 Wizard
-<br/>
-Founder member, who run the organization anonymously, create proposals, manage votes, ensures security and transparancy.
+>Founder member, who run the organization anonymously, create proposals, manage votes, ensures security and transparancy.
 
 Magickian
-> A creator, designer and/or an architect who work the magick of life, the creations of structures and forms.
+> A designer and/or an architect who work the magick of life, the creations of structures and forms.
 
 Alchemist
 > Network specialists, ensuring the safety of our data, finance and identities.
