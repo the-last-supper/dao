@@ -21,7 +21,7 @@ title: Manifesto
 
 
 <br/>
-The Last Supper an autonomous organization runned by a network of wizards, magickians, alchemists and backers to fund, protect and facilitate magickians in the process of crafting their magick.
+The Last Supper an autonomous organization runned by a network of wizards, <mark>magick-ians</mark>, alchemists and backers to fund, protect and facilitate <mark>magick-ians</mark> in the process of crafting their magick.
 
 <br/>
 
