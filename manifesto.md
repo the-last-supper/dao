@@ -3,7 +3,38 @@ layout: post
 title: Manifesto
 ---
 
+<!-- Intro -->
+<figure>
+  <figcaption>
+    God is the Creator.
+  </figcaption>
+</figure>
 
+<!-- who we are -->
+
+<h4>I. WHO WE ARE</h4>
+<figure>
+  <figcaption>
+    "The Last Supper" refers to a renowned mural painting created by the Italian Renaissance artist Leonardo da Vinci. It depicts the final meal that Jesus Christ shared with his disciples before his crucifixion, a moment that holds great religious and cultural significance.
+  </figcaption>
+</figure>
+
+
+The Last Supper an autonomous organization runned by a network of wizards, alchemists and backers to fund, protect and facilitate <mark>magick-ians</mark> in the process of crafting their magick.
+
+<u>Magick-ian</u>
+<p>A designer and/or an architect who work the magick of life, the creations of structures and forms.<p/>
+
+
+<u>Wizard</u>
+<p>Founder member, who run the organization anonymously, create proposals, manage votes, ensures security and transparancy.<p/>
+
+
+<u>Alchemist</u>
+<p>Network specialists, ensuring the safety of our data, finance and identities.<p/>
+
+<u>Backer</u>
+<p>A investor and/or a supporter, who through own's $thelastsupper.<p/>
 
 <!-- our purpose -->
 
