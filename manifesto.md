@@ -28,13 +28,16 @@ A designer and/or an architect who work the magick of life, the creations of str
 
 
 Wizard
+
 Founder member, who run the organization anonymously, create proposals, manage votes, ensures security and transparancy.
 
 
 Alchemist
+
 Network specialists, ensuring the safety of our data, finance and identities.
 
 Backer
+
 A investor and/or a supporter, who through own's $thelastsupper.
 
 <!-- our purpose -->
@@ -69,6 +72,8 @@ We believe in 2027, we enter a new era. The era with a background frequency whic
 
 >Each and every Magick-ian's creation contributes to the ever-evolving collective movie of the humanity. 
 
+Further:
+
 >Through tokenomics, we will get to democratically vote on what gets to propagate and what dies.
 
 >We are here to support the the collective transition to 2027.
@@ -89,7 +94,7 @@ We [PROTECT](https://en.wikipedia.org/wiki/Christopher_Hitchens) magickians:
 
 >Christopher Eric Hitchens (13 April 1949 – 15 December 2011) was an Anglo-American author, columnist, essayist, orator, religious and literary critic, social critic, and journalist. Hitchens was the author, co-author, editor or co-editor of over 30 books, including five collections of essays on culture, politics and literature. A staple of public discourse, his confrontational style of debate made him both a lauded intellectual and a controversial public figure. He contributed to New Statesman, The Nation, The Weekly Standard, The Atlantic, London Review of Books, The Times Literary Supplement, Slate, Free Inquiry and Vanity Fair.
 
-We [GUIDE](https://en.wikipedia.org/wiki/Christopher_Hitchens) magickians so they can [LEAD] the world:
+We [FACILITATES](https://en.wikipedia.org/wiki/Christopher_Hitchens) magickians:
 >Christopher Eric Hitchens (13 April 1949 – 15 December 2011) was an Anglo-American author, columnist, essayist, orator, religious and literary critic, social critic, and journalist. Hitchens was the author, co-author, editor or co-editor of over 30 books, including five collections of essays on culture, politics and literature. A staple of public discourse, his confrontational style of debate made him both a lauded intellectual and a controversial public figure. He contributed to New Statesman, The Nation, The Weekly Standard, The Atlantic, London Review of Books, The Times Literary Supplement, Slate, Free Inquiry and Vanity Fair.
 
 <h4>III. OUR TOKENOMICS</h4>
