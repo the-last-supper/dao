@@ -22,9 +22,9 @@ title: Manifesto
   </figcaption>
 </figure>
 
-<!-- Intro -->
+<!-- who we are -->
 
-<h4>I. WHO WE ARE</h4>
+<h4>I. Who we are</h4>
 
 <br/>
 
@@ -51,7 +51,9 @@ Backer
 > A investor and/or a supporter, who through own's $thelastsupper.
 
 
-<h4>II. OUR PURPOSE</h4>
+<!-- our purpose -->
+
+<h4>II. What we do</h4>
 
 We [FUND](https://en.wikipedia.org/wiki/Christopher_Hitchens) magickians:
 
