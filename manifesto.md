@@ -6,19 +6,19 @@ title: Manifesto
 <!-- Intro -->
 <figure>
   <figcaption>
-    God is a creator
+    God is a creator.
   </figcaption>
 </figure>
 
 <figure>
   <figcaption>
-    God is a designer
+    God is a designer.
   </figcaption>
 </figure>
 
 <figure>
   <figcaption>
-    God is an architect
+    God is an architect.
   </figcaption>
 </figure>
 
@@ -34,13 +34,21 @@ title: Manifesto
   </figcaption>
 </figure>
 
-<p>The Last Supper is a new network, an autonomous organization made of magickians for magickians.</p>
+<p>The Last Supper an autonomous organization running a network made of magickians for magickians.</p>
 
-<p>We are <u>anomymous</u>. The organization is runned anonymously, though our identity is an amalgamation of the identifies of all the magickians and members involved.</p>
+<p>The organization is run by wizards, magickians, alchemists and backers.</p>
 
-<p>We are <u>for profit</u> See II.</p>
+Wizard
+>Founder member, who run the organization anonymously, create proposals, manage votes, ensures security and transparancy.
 
-<p>Our founders do reserve the power of being the leading voice of the organization, though the organization is run autonomously through votes.</p>
+Magickian
+> A creator, designer and/or an architect.
+
+Alchemist
+> Network specialists, ensuring the safety of our data, finance and identities.
+
+Backer
+> A investor and/or a supporter, who through own's $thelastsupper.
 
 
 <center>II. OUR PURPOSE</center>
