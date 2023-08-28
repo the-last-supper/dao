@@ -4,16 +4,20 @@ title: Manifesto
 ---
 
 <!-- Intro -->
-<blockquote>
-  God is the Creator.
-</blockquote>
+<figure>
+  <figcaption>
+    God is the Creator.
+  </figcaption>
+</figure>
 
 <!-- who we are -->
 
 <h4>I. WHO WE ARE</h4>
-<blockquote>
-  "The Last Supper" refers to a renowned mural painting created by the Italian Renaissance artist Leonardo da Vinci. It depicts the final meal that Jesus Christ shared with his disciples before his crucifixion, a moment that holds great religious and cultural significance.
-</blockquote>
+<figure>
+  <figcaption>
+    "The Last Supper" refers to a renowned mural painting created by the Italian Renaissance artist Leonardo da Vinci. It depicts the final meal that Jesus Christ shared with his disciples before his crucifixion, a moment that holds great religious and cultural significance.
+  </figcaption>
+</figure>
 
 
 <br/>
@@ -23,13 +27,13 @@ The Last Supper an autonomous organization runned by a network of wizards, magic
 <p>Founder member, who run the organization anonymously, create proposals, manage votes, ensures security and transparancy.<p/>
 
 <b>Magickian</b>
-> A designer and/or an architect who work the magick of life, the creations of structures and forms.
+<p>A designer and/or an architect who work the magick of life, the creations of structures and forms.<p/>
 
 <b>Alchemist</b>
-> Network specialists, ensuring the safety of our data, finance and identities.
+<p>Network specialists, ensuring the safety of our data, finance and identities.<p/>
 
 <b>Backer</b>
-> A investor and/or a supporter, who through own's $thelastsupper.
+<p>A investor and/or a supporter, who through own's $thelastsupper.<p/>
 
 
 <!-- our purpose -->
@@ -52,13 +56,6 @@ Installments of cosmos, we're the seventh,<br/>
 In stars' embrace, we find our heaven.<br/>
 Singularity's dance, a cosmic rhyme,<br/>
 In this chapter of existence, we chime.<br/>
-  </figcaption>
-</figure>
-
-<figure>
-
-  <figcaption>
-    God is the Creator.
   </figcaption>
 </figure>
 
