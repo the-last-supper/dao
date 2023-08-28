@@ -1,12 +1,15 @@
 ---
 title: "Industrial Designer"
 layout: post
-author: "TLS"
+author: "@thelastsupper"
 categories: magickians
 ---
 
-Not all posts need a title.
+Industrial designers develop the concepts for manufactured products, devices, objects, and services used by millions of people around the world every day.
 
-<!-- excerpt_separator -->
+<!-- comment -->
 
-They sometimes just want to be left alone.
+Phygital
+(phy·gi·tal)
+
+Hybrid of the 'physical' and 'digital' product
