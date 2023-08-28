@@ -23,7 +23,7 @@ title: Manifesto
 <br/>
 <div>The Last Supper an autonomous organization runned by a network of wizards, alchemists and backers to fund, protect and facilitate <mark>magick-ians</mark> in the process of crafting their magick.</div>
 
-<h6><u>Magick-ian</u></h6>
+<u>Magick-ian</u>
 <p>A designer and/or an architect who work the magick of life, the creations of structures and forms.<p/>
 
 
